@@ -8,10 +8,6 @@
 
 A stealthy attack framework that extracts RAG knowledge using natural-looking queries, bypassing input/output-level defenses that block traditional prompt injection and jailbreak attacks.
 
-## 🚀 Live Demo
-
-**[View Poster Online](https://yourusername.github.io/IKEA-poster)** ← 部署后替换为你的链接
-
 ## 📁 Files
 
 | File | Description |
