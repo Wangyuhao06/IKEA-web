@@ -10,14 +10,14 @@ A stealthy attack framework that extracts RAG knowledge using natural-looking qu
 
 ## Citation
 
-'''bibtex
+```bibtex
 @article{wang2025silent,
   title={Silent leaks: Implicit knowledge extraction attack on rag systems through benign queries},
   author={Wang, Yuhao and Qu, Wenjie and Zhai, Shengfang and Jiang, Yanze and Liu, Zichen and Liu, Yue and Dong, Yinpeng and Zhang, Jiaheng},
   journal={arXiv preprint arXiv:2505.15420},
   year={2025}
 }
-'''
+```
 
 ## 📄 Paper Information
 
