@@ -2,6 +2,7 @@
 
 [![ICLR 2026](https://img.shields.io/badge/ICLR-2026-blue)](https://iclr.cc/)
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-red)](https://openreview.net/pdf?id=zfVICPB5Sv)
+[![Website](https://img.shields.io/badge/Website-Ikea-Green)](https://wangyuhao06.github.io/IKEA-web/)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/Wangyuhao06/IKEA)
 
 > **Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems Through Benign Queries**
